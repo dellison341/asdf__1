@@ -1,5 +1,7 @@
 {
    "intents": [
-      "intent": "sayFart"
+     {
+       "intent": "sayFart"
+     }
    ]
 }
